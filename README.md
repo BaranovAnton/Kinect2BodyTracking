@@ -7,4 +7,4 @@ For launch this project you need:
 4) Kinect for Windows SDK
 5) Unity Pro packages
 
-For more information about project you can find in article
+For more information about this project and others you can find in articles of my blog http://studyunity.blogspot.com
